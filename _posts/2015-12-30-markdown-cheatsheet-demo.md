@@ -1,12 +1,10 @@
-# About
-
-This is a place for me to write stuff down using a nice clean, fast Jekyll theme.
-
-# Thinkspace v2.1
-
-This site is using Thinkspace 2.1. 
-
-# Markdown Cheat Sheet
+---
+layout: post
+title: "Markdown Cheatsheet Demo"
+comments: true
+description: "Markdown Cheatsheet Demo..."
+keywords: "markdown, typography components, dummy content"
+---
 
 ## Typography Elements in One
 
@@ -142,8 +140,3 @@ Footnote:
 [^1]: 1: Footnote number one yeah baby!
 
 [^2]: 2: A footnote you can link to - [click here!](#)
-
-
-### License
-
-[MIT](LICENSE.md)
