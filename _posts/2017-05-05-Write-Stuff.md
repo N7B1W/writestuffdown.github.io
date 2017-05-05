@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample
+title: A Place to Write Stuff Down
 ---
 
 {{ page.title }}

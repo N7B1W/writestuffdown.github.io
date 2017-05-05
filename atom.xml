@@ -9,7 +9,7 @@
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://writestuffdown.org/</id>
  <author>
-   <name>Some Dude</name>
+   <name>Snowcrash</name>
    <email>snowcrash@protonmail.ch</email>
  </author>
 
