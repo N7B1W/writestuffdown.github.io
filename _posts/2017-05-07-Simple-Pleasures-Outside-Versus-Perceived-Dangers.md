@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simple Pleasures Outside Versus Perceived Danger"
+title:  "Simple Pleasures Outside Versus Perceived Dangers"
 date:   2017-05-07 12:20:00 +0100
 categories: outside inside
 location: Chicago, IL
